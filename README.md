@@ -14,6 +14,17 @@ The cleaned dataset is designed for downstream analytics and visualization using
 Due to Tableau Public limitations with Parquet files, the raw data is converted and cleaned using Python before visualization.
 
 ---
+🔗 **Live Tableau Dashboard:**  
+https://public.tableau.com/app/profile/karan.gaikwad5428/viz/NYC-TaxiProject/DetailExploration?publish=yes
+
+📊 **Dashboards Included**
+- Demand Overview
+- Revenue & Pricing
+- Location Insights
+- Trip Behavior & Time
+- Detail & Exploration
+
+---
 
 ## 🛠️ Tech Stack
 
