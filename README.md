@@ -15,7 +15,7 @@ Due to Tableau Public limitations with Parquet files, the raw data is converted 
 
 ---
 🔗 **Live Tableau Dashboard:**  
-https://public.tableau.com/app/profile/karan.gaikwad5428/viz/NYC-TaxiProject/DetailExploration?publish=yes
+https://public.tableau.com/app/profile/karan.gaikwad5428/viz/NYC-TaxiProject/DemandOverview?publish=yes
 
 📊 **Dashboards Included**
 - Demand Overview
